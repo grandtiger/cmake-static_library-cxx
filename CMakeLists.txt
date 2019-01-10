@@ -32,11 +32,11 @@ endif()
 #end
 
 
-project(sqdList
+project(CMakeLib
     VERSION 1.0.0 
     LANGUAGES CXX C 
     DESCRIPTION "A working doubly linked list written in C.  " 
-    HOMEPAGE_URL "https://github.com/sqdfarts/cmake-sqdlist-c"
+    HOMEPAGE_URL "https://github.com/sqdfarts/cmake-static_library-cxx"
 )
 
 ##########################################################################################
